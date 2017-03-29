@@ -1,0 +1,12 @@
+{
+  "name": "organization-relations",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-body-parser-json-error": "^0.1.0",
+    "mysql2": "^1.2.0"
+  }
+}
